@@ -1,0 +1,8 @@
+hi my name is gopal,what is your name,how are you
+
+
+print(4+5)
+
+python --version
+
+
